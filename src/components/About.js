@@ -7,7 +7,7 @@ export default function About() {
           <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white"> Hi, I'm David <br/>
           <br className="hidden lg:inline-block"/>I love to build amazing apps.
           </h1>
-          <p className="mb- leading-relaxed"> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quilaborum quasi, incidunt dolore istenostrum cupiditate voluptas?Laborum, voluptas natus?
+          <p className="mb- leading-relaxed"> I am an innovative software engineer that is accomplishment-driven focused on sports tech. Growing up, I tried to participate in as many different sports as possible. I was fascinated with the data and performance analytics. I ended up coaching college/prep football for 7 years. Always being the guy spending late nights building long spreadsheets. During those coaching experiences I excelled in teamwork and perseverance. Looking forward, I’d love to build sports solutions through software development that improves performance analytics. Blending measurables, stats, injuries, and coaching evaluations. 
           </p>
           <div className="flex justify-center">
             <a href="#contact" className="inline-flex text-white bg-green-500 border-0 py-2 px-6 focus:outline-none hover:bg-yellow-300 rounded text-lg">
