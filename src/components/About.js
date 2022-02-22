@@ -27,7 +27,9 @@ export default function About() {
           <br/>
           <p className="mb- leading-relaxed"> I am an inspired software engineer that is accomplishment-driven, focused on sports tech. Growing up, I was passionate about sports and fascinated with the performance analytics.
           <br/>
+          <br/>
           I coached college & prep football for 7 years. Priding myself on being the guy spending late nights building complex spreadsheets. During those coaching experiences I excelled in teamwork and project management.
+          <br/>
           <br/>
           Looking forward, I’d love to build sports solutions through software development that improves strategy & performance. Blending measurables, stats, injuries, and coaching evaluations.
           </p>
